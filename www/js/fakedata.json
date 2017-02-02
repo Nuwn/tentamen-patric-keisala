@@ -1,0 +1,184 @@
+{
+  "products": {
+      "listitem1": { 
+          "link" : "#detail?listitem1",
+          "img":{"src":"img/logo.png"},
+          "div":{ 
+                "h4" : {
+                    "text": "list item 1"
+                  }, 
+                "p": {
+                    "text": "design"
+                }
+            },
+          "span": {"class": "listArrow"},
+          "data":{
+              "img": "img/logo.png",
+              "date":"", 
+              "title":"Detail david", 
+              "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      },
+      "listitem2": { 
+          "link" : "#detail?listitem2",
+          "img":{"src":"img/logo.png"},
+          "div":{ 
+                "h4" : {
+                    "text": "list item 2"
+                  }, 
+                "p": {
+                    "text": "Fasion"
+                }
+            },
+            "span": {"class": "listArrow"},
+            "data":{
+                "img": "img/logo.png",
+                "date":"", 
+                "title":"Detail david", 
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      },
+      "listitem3": { 
+          "link" : "#detail?listitem3",
+          "img":{"src":"img/logo.png"},
+          "div":{ 
+                "h4" : {
+                    "text": "list item 3"
+                  }, 
+                "p": {
+                    "text": "Interior"
+                }
+            },
+            "span": {"class": "listArrow"},
+            "data":{
+                "img": "img/logo.png",
+                "date":"", 
+                "title":"", 
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      },
+      "listitem4": { 
+          "link" : "#detail?listitem4",
+          "img":{"src":"img/logo.png"},
+          "div":{ 
+                "h4" : {
+                    "text": "list item 4"
+                  }, 
+                "p": {
+                    "text": "Interior"
+                }
+            },
+            "span": {"class": "listArrow"},
+            "data":{
+                "img": "img/logo.png",
+                "date":"", 
+                "title":"Detail david", 
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      },
+      "listitem5": { 
+          "link" : "#detail?listitem5",
+          "img":{"src":"img/logo.png"},
+          "div":{ 
+                "h4" : {
+                    "text": "list item 5"
+                  }, 
+                "p": {
+                    "text": "Design"
+                }
+            },
+            "span": {"class": "listArrow"},
+            "data":{
+                "img": "img/logo.png",
+                "date":"", 
+                "title":"Detail david", 
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      },
+      "listitem6": { 
+          "link" : "#detail?listitem6",
+          "img":{"src":"img/logo.png"},
+          "div":{ 
+                "h4" : {
+                    "text": "list item 6"
+                  }, 
+                "p": {
+                    "text": "Fashion"
+                }
+            },
+            "span": {"class": "listArrow"},
+            "data":{
+                "img": "img/logo.png",
+                "date":"", 
+                "title":"Detail david", 
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      },
+      "listitem7": {
+          "link" : "#detail?listitem7", 
+          "img":{"src":"img/logo.png"},
+            "div":{ 
+                "h4" : {
+                    "text": "list item 7"
+                  }, 
+                "p": {
+                    "text": "Design"
+                }
+            },
+            "span": {"class": "listArrow"},
+            "data":{
+                "img": "img/logo.png",
+                "date":"", 
+                "title":"Detail david", 
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      },
+      "listitem8": { 
+          "link" : "#detail?listitem8",
+          "img":{"src":"img/logo.png"},
+          "div":{ 
+                "h4" : {
+                    "text": "list item 8"
+                  }, 
+                "p": {
+                    "text": "Interior"
+                }
+            },
+            "span": {"class": "listArrow"},
+            "data":{
+                "img": "img/logo.png",
+                "date":"", 
+                "title":"Detail david", 
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      },
+      "listitem9": { 
+          "link" : "#detail?listitem9",
+          "img":{"src":"img/logo.png"},
+          "div":{ 
+                "h4" : {
+                    "text": "list item 9"
+                  }, 
+                "p": {
+                    "text": "Design"
+                }
+            },
+           "span": {"class": "listArrow"},
+           "data":{
+                "img": "img/logo.png",
+                "date":"", 
+                "title":"Detail david", 
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      },
+      "listitem10": { 
+          "link" : "#detail?listitem10",
+          "img":{"src":"img/logo.png"},
+          "div":{ 
+                "h4" : {
+                    "text": "list item 10"
+                  }, 
+                "p": {
+                    "text": "Fashion"
+                }
+            },
+            "span": {"class": "listArrow"},
+            "data":{
+                "img": "img/logo.png",
+                "date":"", 
+                "title":"Detail david", 
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+      }
+  }
+}
