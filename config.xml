@@ -10,7 +10,8 @@
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
-    //plugins
+    <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
+    <plugin name="cordova-plugin-network-information" source="npm" spec="~1.2.0" />
     <platform name="android">
         <icon density="ldpi" src="img/icon.jpg" />
         <icon density="mdpi" src="img/icon.jpg" />

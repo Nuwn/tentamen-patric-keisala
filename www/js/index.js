@@ -108,24 +108,20 @@ function details(param){
         dateholder.innerHTML = day + ' ' + monthNames[monthIndex] + ' ' + year;    
     }
 }
-
-function startCamera() {  
-    var options = {
-        quality:25,
-        destinationType: Camera.DestinationType.FILE_URI,
-        sourceType: Camera.PictureSourceType.CAMERA,
-        targetWidth: 400,
-        targetHeight:400
-    };
-
-    navigator.camera.getPicture(camSuccess, camError, options);
+function startConn() {
+    
+    var networkState = navigator.connection.type;
+ 
+    var states = {};
+    states[Connection.UNKNOWN]  = 'Unknown connection';
+    states[Connection.ETHERNET] = 'Ethernet connection';
+    states[Connection.WIFI]     = 'WiFi connection';
+    states[Connection.CELL_2G]  = 'Cell 2G connection';
+    states[Connection.CELL_3G]  = 'Cell 3G connection';
+    states[Connection.CELL_4G]  = 'Cell 4G connection';
+    states[Connection.CELL]     = 'Cell generic connection';
+    states[Connection.NONE]     = 'No network connection';
+ 
+    alert('Connection type: ' + states[networkState]);
 }
-function camSuccess(imgData) {  
-    $("#img_camPH").attr("src",imgData);
-}
-function camError(error) {  
-    alert(error);
-}
-function retakePicture() {  
-    startCamera();
-}
+ 
